@@ -1,0 +1,23 @@
+body {
+	font-family: 'Gilda Display', serif;
+	}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+	font-family: 'Playfair Display SC', serif;
+	text-transform: uppercase;
+}
+
+.navbar-default {
+background-color: yellow;
+border-color: #e7e7e7;
+}
+
+
+/* Utility Styles */
+.bottom-margin {
+	margin-bottom: 40px;
+}
