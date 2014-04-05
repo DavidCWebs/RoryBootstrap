@@ -1,0 +1,65 @@
+.content-a {
+     background: gray;
+}
+
+.content-b {
+     background: lightblue;
+}
+
+.circle {    
+    width:300px;
+	height:300px;
+	border-radius:100%;
+	text-align:center;
+	line-height:300px;
+    font-size: 30px;
+    overflow: hidden;
+}
+
+.circle span {
+    line-height: normal;
+    display:inline-block;
+    vertical-align: middle;
+    margin-bottom: 30px; /* fine positioning of the text */
+}
+
+.blue {
+    background-color: #96F8FF;
+    color: #959595;
+    border: 10px solid #EF9783;
+}
+
+.red {
+    background-color: #A8D8DB;
+    color: #000;
+    border: 10px solid #ff6363;
+}
+
+/* This class centres a div within the container */
+.col-centered {
+float: none;
+margin: 0 auto;
+}
+
+/* Top Bottom Paddin */
+.vertical-padding {
+    padding: 40px 0 40px 0;
+}
+
+.button {
+    background-color: gray;
+    width:500px;
+	height:200px;
+	border-radius:50%;
+	text-align:center;
+	line-height:300px;
+    font-size: 30px;
+    overflow: hidden;
+}
+.button span {
+    line-height: normal;
+    display:inline-block;
+    vertical-align: middle;
+    margin-bottom: 90px; /* fine positioning of the text */
+}
+                                        
